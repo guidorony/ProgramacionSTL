@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573817782 source:d:\stdprogramacion\programacionstl\listasstl\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<list>
+
