@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574394085 source:d:\stdprogramacion\map\main.cpp
+	<map>
+	<string>
+	<iostream>
+
