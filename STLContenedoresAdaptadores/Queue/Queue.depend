@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574479121 source:d:\stdprogramacion\programacionstl\stlcontenedoresadaptadores\queue\main.cpp
+	<iostream>
+	<queue>
+

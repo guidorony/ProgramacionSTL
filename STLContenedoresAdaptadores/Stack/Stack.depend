@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574478679 source:d:\stdprogramacion\programacionstl\stlcontenedoresadaptadores\stack\main.cpp
+	<iostream>
+	<stack>
+
